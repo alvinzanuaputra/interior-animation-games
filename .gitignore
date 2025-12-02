@@ -1,0 +1,47 @@
+# OS Generated
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Unity Generated Folders
+fp-grafkom/[Ll]ibrary/
+fp-grafkom/[Tt]emp/
+fp-grafkom/[Oo]bj/
+fp-grafkom/[Bb]uild/
+fp-grafkom/[Bb]uilds/
+fp-grafkom/[Ll]ogs/
+fp-grafkom/[Uu]ser[Ss]ettings/
+fp-grafkom/MemoryCaptures/
+
+# Builds
+# WindowsBuild/
+# WebGLBuild/
+*.apk
+*.unitypackage
+
+# Visual Studio / JetBrains / IDEs
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Plastic SCM
+fp-grafkom/.plastic/
